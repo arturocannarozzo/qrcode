@@ -24,11 +24,6 @@ The program will generate QR codes for each link in the text file and save them 
 
 
 
-tune
-
-share
-
-
-more_vert
+Artlinux
 
 
